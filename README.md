@@ -68,4 +68,4 @@ To view all the errors and warnings for ESLint you can use the command `npx esli
 
 11. Set up ESLint to automatically fix syntax and formatting issues upon save by following Step 4 and 5 of this [article](https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code)
 
-12. Finally, check [GitHub](https://github.com/gabe-san/project-template) repository if any commits have not been updated.
+12. Finally, check [GitHub](https://github.com/noory007/Weather-Project) repository if any commits have not been updated.
